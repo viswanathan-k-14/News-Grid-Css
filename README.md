@@ -7,4 +7,4 @@ A modern css page using css-gridSystem
 
 ✔️ Beginner friendly
 
-✔️ Live : news-360.netlify.app
+✔️ Live : www.news-360.netlify.app
